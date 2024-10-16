@@ -406,6 +406,7 @@ namespace MapleLib.WzLib
                                 }
                         }
                         reader.BaseStream.Position = fallbackOffsetPosition; // reset
+                        return false;
                     }
                     catch
                     {
@@ -418,19 +419,11 @@ namespace MapleLib.WzLib
                 {
                     // coincidentally in msea v194 Map001.wz, the hash matches exactly using mapleStoryPatchVersion of 113, and it fails to decrypt later on (probably 1 in a million chance? o_O).
                     // damn, technical debt accumulating here
-                    if (mapleStoryPatchVersion == 113)
-                    {
-                        // hack for now
-                        reader.BaseStream.Position = fallbackOffsetPosition; // reset
-                        return false;
-                    }
-                    else
-                    {
                         this.wzDir = testDirectory;
                         bCloseTestDirectory = false;
 
                         return true;
-                    }
+                    
                 }
             }
             finally
