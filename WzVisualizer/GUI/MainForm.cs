@@ -17,7 +17,7 @@ namespace WzVisualizer.GUI {
     public partial class MainForm : Form {
         internal readonly SearchForm SearchForm = new();
 
-        private readonly FolderBrowserDialog folderBrowser = new();
+        private readonly FolderSelectDialog folderBrowser = new();
         private readonly PropertiesViewer viewer = new();
         public bool LoadAll { get; set; }
 
@@ -264,8 +264,8 @@ namespace WzVisualizer.GUI {
         /// directory as the root folder containing WZ files
         /// </summary>
         private void TextWzPath_Click(object sender, EventArgs e) {
-            if (folderBrowser.ShowDialog() != DialogResult.OK) return;
-            wzPathTextbox.Text = folderBrowser.SelectedPath;
+            if (!folderBrowser.ShowDialog(Handle)) return;
+            wzPathTextbox.Text = folderBrowser.FileName;
         }
 
 

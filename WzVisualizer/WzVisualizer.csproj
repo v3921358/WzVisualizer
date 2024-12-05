@@ -115,6 +115,7 @@
     <Compile Include="GUI\Controls\DataViewport.Designer.cs">
       <DependentUpon>DataViewport.cs</DependentUpon>
     </Compile>
+    <Compile Include="GUI\Controls\FolderSelectDialog.cs" />
     <Compile Include="GUI\SearchForm.cs">
       <SubType>Form</SubType>
     </Compile>
