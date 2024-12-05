@@ -159,6 +159,9 @@
   <data name="MassWriteWarning" xml:space="preserve">
     <value>您已選擇儲存所有類型。您確定要這樣做嗎？</value>
   </data>
+  <data name="NoName" xml:space="preserve">
+    <value>無名稱</value>
+  </data>
   <data name="Options" xml:space="preserve">
     <value>選項</value>
   </data>

@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Drawing;
+using WzVisualizer.Properties;
 
 namespace WzVisualizer {
 
@@ -36,9 +37,10 @@ namespace WzVisualizer {
 
         public int ID { get; set; }
 
-        public string Name {
-            get => _name ?? "NO-NAME";
-            set => _name = value ?? "NO-NAME";
+        public string Name
+        {
+            get => _name ?? Resources.NoName;
+            set => _name = value ?? Resources.NoName;
         }
 
         public Image Image { get; set; }

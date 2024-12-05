@@ -196,6 +196,15 @@ namespace WzVisualizer.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to NO-NAME.
+        /// </summary>
+        internal static string NoName {
+            get {
+                return ResourceManager.GetString("NoName", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Options.
         /// </summary>
         internal static string Options {

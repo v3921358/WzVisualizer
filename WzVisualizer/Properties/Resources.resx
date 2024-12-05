@@ -181,4 +181,7 @@
   <data name="ImagesFolder" xml:space="preserve">
     <value>images</value>
   </data>
+  <data name="NoName" xml:space="preserve">
+    <value>NO-NAME</value>
+  </data>
 </root>

@@ -128,16 +128,12 @@ namespace WzVisualizer {
                 }
             }
 
-            if (_fieldNames.TryGetValue(mapId, out var name)) {
-                return name;
-            }
-
-            return "NO-NAME";
-
+            return _fieldNames.TryGetValue(mapId, out var name) ? name : Resources.NoName;
         }
 
-        private static string GetStringValue(WzImageProperty img) {
-            return img != null && img is WzStringProperty str ? str.Value : "NO-NAME";
+        private static string GetStringValue(WzImageProperty img)
+        {
+            return img is WzStringProperty str ? str.Value : Resources.NoName;
         }
 
         public static string GetNpc(int id) {
