@@ -187,7 +187,7 @@
     <value>5, 5, 5, 5</value>
   </data>
   <data name="EquipFacesView.Size" type="System.Drawing.Size, System.Drawing">
-    <value>773, 472</value>
+    <value>773, 469</value>
   </data>
   <data name="EquipFacesView.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -211,7 +211,7 @@
     <value>3, 3, 3, 3</value>
   </data>
   <data name="TabEFaces.Size" type="System.Drawing.Size, System.Drawing">
-    <value>779, 478</value>
+    <value>779, 475</value>
   </data>
   <data name="TabEFaces.TabIndex" type="System.Int32, mscorlib">
     <value>10</value>
@@ -241,7 +241,7 @@
     <value>5, 5, 5, 5</value>
   </data>
   <data name="EquipWeaponsView.Size" type="System.Drawing.Size, System.Drawing">
-    <value>773, 472</value>
+    <value>773, 469</value>
   </data>
   <data name="EquipWeaponsView.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -265,7 +265,7 @@
     <value>3, 3, 3, 3</value>
   </data>
   <data name="TabsEWeapons.Size" type="System.Drawing.Size, System.Drawing">
-    <value>779, 478</value>
+    <value>779, 475</value>
   </data>
   <data name="TabsEWeapons.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -295,7 +295,7 @@
     <value>5, 5, 5, 5</value>
   </data>
   <data name="EquipAccessoryView.Size" type="System.Drawing.Size, System.Drawing">
-    <value>773, 472</value>
+    <value>773, 469</value>
   </data>
   <data name="EquipAccessoryView.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -319,7 +319,7 @@
     <value>3, 3, 3, 3</value>
   </data>
   <data name="TabEAccessory.Size" type="System.Drawing.Size, System.Drawing">
-    <value>779, 478</value>
+    <value>779, 475</value>
   </data>
   <data name="TabEAccessory.TabIndex" type="System.Int32, mscorlib">
     <value>12</value>
@@ -349,7 +349,7 @@
     <value>5, 5, 5, 5</value>
   </data>
   <data name="EquipCapsView.Size" type="System.Drawing.Size, System.Drawing">
-    <value>773, 472</value>
+    <value>773, 469</value>
   </data>
   <data name="EquipCapsView.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -373,7 +373,7 @@
     <value>3, 3, 3, 3</value>
   </data>
   <data name="TabECaps.Size" type="System.Drawing.Size, System.Drawing">
-    <value>779, 478</value>
+    <value>779, 475</value>
   </data>
   <data name="TabECaps.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -403,7 +403,7 @@
     <value>5, 5, 5, 5</value>
   </data>
   <data name="EquipOverallsView.Size" type="System.Drawing.Size, System.Drawing">
-    <value>773, 472</value>
+    <value>773, 469</value>
   </data>
   <data name="EquipOverallsView.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -427,7 +427,7 @@
     <value>3, 3, 3, 3</value>
   </data>
   <data name="TabEOveralls.Size" type="System.Drawing.Size, System.Drawing">
-    <value>779, 478</value>
+    <value>779, 475</value>
   </data>
   <data name="TabEOveralls.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>
@@ -457,7 +457,7 @@
     <value>5, 5, 5, 5</value>
   </data>
   <data name="EquipTopsView.Size" type="System.Drawing.Size, System.Drawing">
-    <value>773, 472</value>
+    <value>773, 469</value>
   </data>
   <data name="EquipTopsView.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -481,7 +481,7 @@
     <value>3, 3, 3, 3</value>
   </data>
   <data name="TabETops.Size" type="System.Drawing.Size, System.Drawing">
-    <value>779, 478</value>
+    <value>779, 475</value>
   </data>
   <data name="TabETops.TabIndex" type="System.Int32, mscorlib">
     <value>3</value>
@@ -511,7 +511,7 @@
     <value>5, 5, 5, 5</value>
   </data>
   <data name="EquipPantsView.Size" type="System.Drawing.Size, System.Drawing">
-    <value>773, 472</value>
+    <value>773, 469</value>
   </data>
   <data name="EquipPantsView.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -535,7 +535,7 @@
     <value>3, 3, 3, 3</value>
   </data>
   <data name="TabEBottoms.Size" type="System.Drawing.Size, System.Drawing">
-    <value>779, 478</value>
+    <value>779, 475</value>
   </data>
   <data name="TabEBottoms.TabIndex" type="System.Int32, mscorlib">
     <value>4</value>
@@ -565,7 +565,7 @@
     <value>5, 5, 5, 5</value>
   </data>
   <data name="EquipShoesView.Size" type="System.Drawing.Size, System.Drawing">
-    <value>773, 472</value>
+    <value>773, 469</value>
   </data>
   <data name="EquipShoesView.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -589,7 +589,7 @@
     <value>3, 3, 3, 3</value>
   </data>
   <data name="TabEShoes.Size" type="System.Drawing.Size, System.Drawing">
-    <value>779, 478</value>
+    <value>779, 475</value>
   </data>
   <data name="TabEShoes.TabIndex" type="System.Int32, mscorlib">
     <value>5</value>
@@ -619,7 +619,7 @@
     <value>5, 5, 5, 5</value>
   </data>
   <data name="EquipCapesView.Size" type="System.Drawing.Size, System.Drawing">
-    <value>773, 472</value>
+    <value>773, 469</value>
   </data>
   <data name="EquipCapesView.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -643,7 +643,7 @@
     <value>3, 3, 3, 3</value>
   </data>
   <data name="TabECapes.Size" type="System.Drawing.Size, System.Drawing">
-    <value>779, 478</value>
+    <value>779, 475</value>
   </data>
   <data name="TabECapes.TabIndex" type="System.Int32, mscorlib">
     <value>6</value>
@@ -673,7 +673,7 @@
     <value>5, 5, 5, 5</value>
   </data>
   <data name="EquipGlovesView.Size" type="System.Drawing.Size, System.Drawing">
-    <value>773, 472</value>
+    <value>773, 469</value>
   </data>
   <data name="EquipGlovesView.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -697,7 +697,7 @@
     <value>3, 3, 3, 3</value>
   </data>
   <data name="TabEGloves.Size" type="System.Drawing.Size, System.Drawing">
-    <value>779, 478</value>
+    <value>779, 475</value>
   </data>
   <data name="TabEGloves.TabIndex" type="System.Int32, mscorlib">
     <value>7</value>
@@ -727,7 +727,7 @@
     <value>5, 5, 5, 5</value>
   </data>
   <data name="EquipRingsView.Size" type="System.Drawing.Size, System.Drawing">
-    <value>773, 472</value>
+    <value>773, 469</value>
   </data>
   <data name="EquipRingsView.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -751,7 +751,7 @@
     <value>3, 3, 3, 3</value>
   </data>
   <data name="TabERings.Size" type="System.Drawing.Size, System.Drawing">
-    <value>779, 478</value>
+    <value>779, 475</value>
   </data>
   <data name="TabERings.TabIndex" type="System.Int32, mscorlib">
     <value>8</value>
@@ -781,7 +781,7 @@
     <value>5, 5, 5, 5</value>
   </data>
   <data name="EquipShieldsView.Size" type="System.Drawing.Size, System.Drawing">
-    <value>773, 472</value>
+    <value>773, 469</value>
   </data>
   <data name="EquipShieldsView.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -805,7 +805,7 @@
     <value>3, 3, 3, 3</value>
   </data>
   <data name="TabEShields.Size" type="System.Drawing.Size, System.Drawing">
-    <value>779, 478</value>
+    <value>779, 475</value>
   </data>
   <data name="TabEShields.TabIndex" type="System.Int32, mscorlib">
     <value>11</value>
@@ -835,7 +835,7 @@
     <value>5, 5, 5, 5</value>
   </data>
   <data name="EquipMountsView.Size" type="System.Drawing.Size, System.Drawing">
-    <value>773, 472</value>
+    <value>773, 469</value>
   </data>
   <data name="EquipMountsView.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -859,7 +859,7 @@
     <value>3, 3, 3, 3</value>
   </data>
   <data name="TabETames.Size" type="System.Drawing.Size, System.Drawing">
-    <value>779, 478</value>
+    <value>779, 475</value>
   </data>
   <data name="TabETames.TabIndex" type="System.Int32, mscorlib">
     <value>13</value>
@@ -994,7 +994,7 @@
     <value>4, 4, 4, 4</value>
   </data>
   <data name="UseScrollsView.Size" type="System.Drawing.Size, System.Drawing">
-    <value>767, 466</value>
+    <value>767, 463</value>
   </data>
   <data name="UseScrollsView.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -1018,7 +1018,7 @@
     <value>3, 3, 3, 3</value>
   </data>
   <data name="TabUScrolls.Size" type="System.Drawing.Size, System.Drawing">
-    <value>773, 472</value>
+    <value>773, 469</value>
   </data>
   <data name="TabUScrolls.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -1048,7 +1048,7 @@
     <value>4, 4, 4, 4</value>
   </data>
   <data name="UseProjectileView.Size" type="System.Drawing.Size, System.Drawing">
-    <value>767, 466</value>
+    <value>767, 463</value>
   </data>
   <data name="UseProjectileView.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -1072,7 +1072,7 @@
     <value>3, 3, 3, 3</value>
   </data>
   <data name="TabUProjectiles.Size" type="System.Drawing.Size, System.Drawing">
-    <value>773, 472</value>
+    <value>773, 469</value>
   </data>
   <data name="TabUProjectiles.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>
@@ -1207,7 +1207,7 @@
     <value>4, 4, 4, 4</value>
   </data>
   <data name="SetupOthersView.Size" type="System.Drawing.Size, System.Drawing">
-    <value>767, 466</value>
+    <value>767, 463</value>
   </data>
   <data name="SetupOthersView.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -1231,7 +1231,7 @@
     <value>3, 3, 3, 3</value>
   </data>
   <data name="TabSOther.Size" type="System.Drawing.Size, System.Drawing">
-    <value>773, 472</value>
+    <value>773, 469</value>
   </data>
   <data name="TabSOther.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>
@@ -1765,7 +1765,7 @@
     <value>7</value>
   </data>
   <data name="wzPathTextbox.Location" type="System.Drawing.Point, System.Drawing">
-    <value>49, 6</value>
+    <value>49, 4</value>
   </data>
   <data name="wzPathTextbox.Size" type="System.Drawing.Size, System.Drawing">
     <value>222, 22</value>
@@ -1789,7 +1789,7 @@
     <value>Top, Right</value>
   </data>
   <data name="searchTextbox.Location" type="System.Drawing.Point, System.Drawing">
-    <value>584, 6</value>
+    <value>584, 3</value>
   </data>
   <data name="searchTextbox.Size" type="System.Drawing.Size, System.Drawing">
     <value>132, 22</value>
@@ -1840,10 +1840,10 @@
     <value>4</value>
   </data>
   <data name="loadButton.Location" type="System.Drawing.Point, System.Drawing">
-    <value>278, 6</value>
+    <value>278, 4</value>
   </data>
   <data name="loadButton.Size" type="System.Drawing.Size, System.Drawing">
-    <value>61, 18</value>
+    <value>61, 22</value>
   </data>
   <data name="loadButton.TabIndex" type="System.Int32, mscorlib">
     <value>8</value>
@@ -1867,10 +1867,10 @@
     <value>Top, Right</value>
   </data>
   <data name="searchButton.Location" type="System.Drawing.Point, System.Drawing">
-    <value>720, 6</value>
+    <value>720, 4</value>
   </data>
   <data name="searchButton.Size" type="System.Drawing.Size, System.Drawing">
-    <value>64, 18</value>
+    <value>64, 22</value>
   </data>
   <data name="searchButton.TabIndex" type="System.Int32, mscorlib">
     <value>9</value>
@@ -1891,10 +1891,10 @@
     <value>2</value>
   </data>
   <data name="saveButton.Location" type="System.Drawing.Point, System.Drawing">
-    <value>345, 6</value>
+    <value>345, 4</value>
   </data>
   <data name="saveButton.Size" type="System.Drawing.Size, System.Drawing">
-    <value>61, 18</value>
+    <value>61, 22</value>
   </data>
   <data name="saveButton.TabIndex" type="System.Int32, mscorlib">
     <value>10</value>
@@ -1914,11 +1914,14 @@
   <data name="&gt;&gt;saveButton.ZOrder" xml:space="preserve">
     <value>1</value>
   </data>
+  <data name="exportButton.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
   <data name="exportButton.Location" type="System.Drawing.Point, System.Drawing">
-    <value>412, 6</value>
+    <value>412, 4</value>
   </data>
   <data name="exportButton.Size" type="System.Drawing.Size, System.Drawing">
-    <value>85, 18</value>
+    <value>85, 22</value>
   </data>
   <data name="exportButton.TabIndex" type="System.Int32, mscorlib">
     <value>11</value>
