@@ -143,6 +143,12 @@
     <EmbeddedResource Include="GUI\Controls\DataViewport.resx">
       <DependentUpon>DataViewport.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Controls\DataViewport.zh-TW.resx">
+      <DependentUpon>DataViewport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\MainForm.zh-TW.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="GUI\SearchForm.resx">
       <DependentUpon>SearchForm.cs</DependentUpon>
     </EmbeddedResource>
@@ -151,6 +157,9 @@
       <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="GUI\PropertiesViewer.resx">
+      <DependentUpon>PropertiesViewer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\PropertiesViewer.zh-TW.resx">
       <DependentUpon>PropertiesViewer.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
@@ -163,6 +172,10 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <EmbeddedResource Include="GUI\SearchForm.zh-TW.resx">
+      <DependentUpon>SearchForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.zh-TW.resx" />
     <None Include="packages.config" />
     <None Include="Properties\DataSources\WzVisualizer.Properties.Resources.datasource" />
     <None Include="Properties\DataSources\WzVisualizer.Properties.Settings.datasource" />

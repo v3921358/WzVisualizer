@@ -117,10 +117,1839 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="TabControlMain.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Bottom, Left, Right</value>
+  </data>
+  <data name="EquipHairsView.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="EquipHairsView.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 3</value>
+  </data>
+  <data name="EquipHairsView.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="EquipHairsView.Size" type="System.Drawing.Size, System.Drawing">
+    <value>773, 469</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="EquipHairsView.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;EquipHairsView.Name" xml:space="preserve">
+    <value>EquipHairsView</value>
+  </data>
+  <data name="&gt;&gt;EquipHairsView.Type" xml:space="preserve">
+    <value>WzVisualizer.GUI.Controls.DataViewport, WzVisualizer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;EquipHairsView.Parent" xml:space="preserve">
+    <value>TabEHairs</value>
+  </data>
+  <data name="&gt;&gt;EquipHairsView.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="TabEHairs.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 25</value>
+  </data>
+  <data name="TabEHairs.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 3, 3, 3</value>
+  </data>
+  <data name="TabEHairs.Size" type="System.Drawing.Size, System.Drawing">
+    <value>779, 475</value>
+  </data>
+  <data name="TabEHairs.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="TabEHairs.Text" xml:space="preserve">
+    <value>Hairs</value>
+  </data>
+  <data name="&gt;&gt;TabEHairs.Name" xml:space="preserve">
+    <value>TabEHairs</value>
+  </data>
+  <data name="&gt;&gt;TabEHairs.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;TabEHairs.Parent" xml:space="preserve">
+    <value>EquipTab</value>
+  </data>
+  <data name="&gt;&gt;TabEHairs.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="EquipFacesView.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="EquipFacesView.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 3</value>
+  </data>
+  <data name="EquipFacesView.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 5, 5, 5</value>
+  </data>
+  <data name="EquipFacesView.Size" type="System.Drawing.Size, System.Drawing">
+    <value>773, 472</value>
+  </data>
+  <data name="EquipFacesView.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;EquipFacesView.Name" xml:space="preserve">
+    <value>EquipFacesView</value>
+  </data>
+  <data name="&gt;&gt;EquipFacesView.Type" xml:space="preserve">
+    <value>WzVisualizer.GUI.Controls.DataViewport, WzVisualizer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;EquipFacesView.Parent" xml:space="preserve">
+    <value>TabEFaces</value>
+  </data>
+  <data name="&gt;&gt;EquipFacesView.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="TabEFaces.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 25</value>
+  </data>
+  <data name="TabEFaces.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 3, 3, 3</value>
+  </data>
+  <data name="TabEFaces.Size" type="System.Drawing.Size, System.Drawing">
+    <value>779, 478</value>
+  </data>
+  <data name="TabEFaces.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="TabEFaces.Text" xml:space="preserve">
+    <value>Faces</value>
+  </data>
+  <data name="&gt;&gt;TabEFaces.Name" xml:space="preserve">
+    <value>TabEFaces</value>
+  </data>
+  <data name="&gt;&gt;TabEFaces.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;TabEFaces.Parent" xml:space="preserve">
+    <value>EquipTab</value>
+  </data>
+  <data name="&gt;&gt;TabEFaces.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="EquipWeaponsView.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="EquipWeaponsView.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 3</value>
+  </data>
+  <data name="EquipWeaponsView.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 5, 5, 5</value>
+  </data>
+  <data name="EquipWeaponsView.Size" type="System.Drawing.Size, System.Drawing">
+    <value>773, 472</value>
+  </data>
+  <data name="EquipWeaponsView.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;EquipWeaponsView.Name" xml:space="preserve">
+    <value>EquipWeaponsView</value>
+  </data>
+  <data name="&gt;&gt;EquipWeaponsView.Type" xml:space="preserve">
+    <value>WzVisualizer.GUI.Controls.DataViewport, WzVisualizer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;EquipWeaponsView.Parent" xml:space="preserve">
+    <value>TabsEWeapons</value>
+  </data>
+  <data name="&gt;&gt;EquipWeaponsView.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="TabsEWeapons.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 25</value>
+  </data>
+  <data name="TabsEWeapons.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 3, 3, 3</value>
+  </data>
+  <data name="TabsEWeapons.Size" type="System.Drawing.Size, System.Drawing">
+    <value>779, 478</value>
+  </data>
+  <data name="TabsEWeapons.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="TabsEWeapons.Text" xml:space="preserve">
+    <value>Weapons</value>
+  </data>
+  <data name="&gt;&gt;TabsEWeapons.Name" xml:space="preserve">
+    <value>TabsEWeapons</value>
+  </data>
+  <data name="&gt;&gt;TabsEWeapons.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;TabsEWeapons.Parent" xml:space="preserve">
+    <value>EquipTab</value>
+  </data>
+  <data name="&gt;&gt;TabsEWeapons.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="EquipAccessoryView.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="EquipAccessoryView.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 3</value>
+  </data>
+  <data name="EquipAccessoryView.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 5, 5, 5</value>
+  </data>
+  <data name="EquipAccessoryView.Size" type="System.Drawing.Size, System.Drawing">
+    <value>773, 472</value>
+  </data>
+  <data name="EquipAccessoryView.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;EquipAccessoryView.Name" xml:space="preserve">
+    <value>EquipAccessoryView</value>
+  </data>
+  <data name="&gt;&gt;EquipAccessoryView.Type" xml:space="preserve">
+    <value>WzVisualizer.GUI.Controls.DataViewport, WzVisualizer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;EquipAccessoryView.Parent" xml:space="preserve">
+    <value>TabEAccessory</value>
+  </data>
+  <data name="&gt;&gt;EquipAccessoryView.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="TabEAccessory.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 25</value>
+  </data>
+  <data name="TabEAccessory.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 3, 3, 3</value>
+  </data>
+  <data name="TabEAccessory.Size" type="System.Drawing.Size, System.Drawing">
+    <value>779, 478</value>
+  </data>
+  <data name="TabEAccessory.TabIndex" type="System.Int32, mscorlib">
+    <value>12</value>
+  </data>
+  <data name="TabEAccessory.Text" xml:space="preserve">
+    <value>Accessory</value>
+  </data>
+  <data name="&gt;&gt;TabEAccessory.Name" xml:space="preserve">
+    <value>TabEAccessory</value>
+  </data>
+  <data name="&gt;&gt;TabEAccessory.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;TabEAccessory.Parent" xml:space="preserve">
+    <value>EquipTab</value>
+  </data>
+  <data name="&gt;&gt;TabEAccessory.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="EquipCapsView.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="EquipCapsView.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 3</value>
+  </data>
+  <data name="EquipCapsView.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 5, 5, 5</value>
+  </data>
+  <data name="EquipCapsView.Size" type="System.Drawing.Size, System.Drawing">
+    <value>773, 472</value>
+  </data>
+  <data name="EquipCapsView.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;EquipCapsView.Name" xml:space="preserve">
+    <value>EquipCapsView</value>
+  </data>
+  <data name="&gt;&gt;EquipCapsView.Type" xml:space="preserve">
+    <value>WzVisualizer.GUI.Controls.DataViewport, WzVisualizer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;EquipCapsView.Parent" xml:space="preserve">
+    <value>TabECaps</value>
+  </data>
+  <data name="&gt;&gt;EquipCapsView.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="TabECaps.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 25</value>
+  </data>
+  <data name="TabECaps.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 3, 3, 3</value>
+  </data>
+  <data name="TabECaps.Size" type="System.Drawing.Size, System.Drawing">
+    <value>779, 478</value>
+  </data>
+  <data name="TabECaps.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="TabECaps.Text" xml:space="preserve">
+    <value>Caps</value>
+  </data>
+  <data name="&gt;&gt;TabECaps.Name" xml:space="preserve">
+    <value>TabECaps</value>
+  </data>
+  <data name="&gt;&gt;TabECaps.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;TabECaps.Parent" xml:space="preserve">
+    <value>EquipTab</value>
+  </data>
+  <data name="&gt;&gt;TabECaps.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="EquipOverallsView.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="EquipOverallsView.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 3</value>
+  </data>
+  <data name="EquipOverallsView.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 5, 5, 5</value>
+  </data>
+  <data name="EquipOverallsView.Size" type="System.Drawing.Size, System.Drawing">
+    <value>773, 472</value>
+  </data>
+  <data name="EquipOverallsView.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;EquipOverallsView.Name" xml:space="preserve">
+    <value>EquipOverallsView</value>
+  </data>
+  <data name="&gt;&gt;EquipOverallsView.Type" xml:space="preserve">
+    <value>WzVisualizer.GUI.Controls.DataViewport, WzVisualizer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;EquipOverallsView.Parent" xml:space="preserve">
+    <value>TabEOveralls</value>
+  </data>
+  <data name="&gt;&gt;EquipOverallsView.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="TabEOveralls.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 25</value>
+  </data>
+  <data name="TabEOveralls.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 3, 3, 3</value>
+  </data>
+  <data name="TabEOveralls.Size" type="System.Drawing.Size, System.Drawing">
+    <value>779, 478</value>
+  </data>
+  <data name="TabEOveralls.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="TabEOveralls.Text" xml:space="preserve">
+    <value>Overalls</value>
+  </data>
+  <data name="&gt;&gt;TabEOveralls.Name" xml:space="preserve">
+    <value>TabEOveralls</value>
+  </data>
+  <data name="&gt;&gt;TabEOveralls.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;TabEOveralls.Parent" xml:space="preserve">
+    <value>EquipTab</value>
+  </data>
+  <data name="&gt;&gt;TabEOveralls.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="EquipTopsView.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="EquipTopsView.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 3</value>
+  </data>
+  <data name="EquipTopsView.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 5, 5, 5</value>
+  </data>
+  <data name="EquipTopsView.Size" type="System.Drawing.Size, System.Drawing">
+    <value>773, 472</value>
+  </data>
+  <data name="EquipTopsView.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;EquipTopsView.Name" xml:space="preserve">
+    <value>EquipTopsView</value>
+  </data>
+  <data name="&gt;&gt;EquipTopsView.Type" xml:space="preserve">
+    <value>WzVisualizer.GUI.Controls.DataViewport, WzVisualizer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;EquipTopsView.Parent" xml:space="preserve">
+    <value>TabETops</value>
+  </data>
+  <data name="&gt;&gt;EquipTopsView.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="TabETops.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 25</value>
+  </data>
+  <data name="TabETops.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 3, 3, 3</value>
+  </data>
+  <data name="TabETops.Size" type="System.Drawing.Size, System.Drawing">
+    <value>779, 478</value>
+  </data>
+  <data name="TabETops.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="TabETops.Text" xml:space="preserve">
+    <value>Tops</value>
+  </data>
+  <data name="&gt;&gt;TabETops.Name" xml:space="preserve">
+    <value>TabETops</value>
+  </data>
+  <data name="&gt;&gt;TabETops.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;TabETops.Parent" xml:space="preserve">
+    <value>EquipTab</value>
+  </data>
+  <data name="&gt;&gt;TabETops.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="EquipPantsView.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="EquipPantsView.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 3</value>
+  </data>
+  <data name="EquipPantsView.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 5, 5, 5</value>
+  </data>
+  <data name="EquipPantsView.Size" type="System.Drawing.Size, System.Drawing">
+    <value>773, 472</value>
+  </data>
+  <data name="EquipPantsView.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;EquipPantsView.Name" xml:space="preserve">
+    <value>EquipPantsView</value>
+  </data>
+  <data name="&gt;&gt;EquipPantsView.Type" xml:space="preserve">
+    <value>WzVisualizer.GUI.Controls.DataViewport, WzVisualizer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;EquipPantsView.Parent" xml:space="preserve">
+    <value>TabEBottoms</value>
+  </data>
+  <data name="&gt;&gt;EquipPantsView.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="TabEBottoms.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 25</value>
+  </data>
+  <data name="TabEBottoms.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 3, 3, 3</value>
+  </data>
+  <data name="TabEBottoms.Size" type="System.Drawing.Size, System.Drawing">
+    <value>779, 478</value>
+  </data>
+  <data name="TabEBottoms.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="TabEBottoms.Text" xml:space="preserve">
+    <value>Bottoms</value>
+  </data>
+  <data name="&gt;&gt;TabEBottoms.Name" xml:space="preserve">
+    <value>TabEBottoms</value>
+  </data>
+  <data name="&gt;&gt;TabEBottoms.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;TabEBottoms.Parent" xml:space="preserve">
+    <value>EquipTab</value>
+  </data>
+  <data name="&gt;&gt;TabEBottoms.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="EquipShoesView.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="EquipShoesView.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 3</value>
+  </data>
+  <data name="EquipShoesView.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 5, 5, 5</value>
+  </data>
+  <data name="EquipShoesView.Size" type="System.Drawing.Size, System.Drawing">
+    <value>773, 472</value>
+  </data>
+  <data name="EquipShoesView.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;EquipShoesView.Name" xml:space="preserve">
+    <value>EquipShoesView</value>
+  </data>
+  <data name="&gt;&gt;EquipShoesView.Type" xml:space="preserve">
+    <value>WzVisualizer.GUI.Controls.DataViewport, WzVisualizer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;EquipShoesView.Parent" xml:space="preserve">
+    <value>TabEShoes</value>
+  </data>
+  <data name="&gt;&gt;EquipShoesView.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="TabEShoes.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 25</value>
+  </data>
+  <data name="TabEShoes.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 3, 3, 3</value>
+  </data>
+  <data name="TabEShoes.Size" type="System.Drawing.Size, System.Drawing">
+    <value>779, 478</value>
+  </data>
+  <data name="TabEShoes.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="TabEShoes.Text" xml:space="preserve">
+    <value>Shoes</value>
+  </data>
+  <data name="&gt;&gt;TabEShoes.Name" xml:space="preserve">
+    <value>TabEShoes</value>
+  </data>
+  <data name="&gt;&gt;TabEShoes.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;TabEShoes.Parent" xml:space="preserve">
+    <value>EquipTab</value>
+  </data>
+  <data name="&gt;&gt;TabEShoes.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="EquipCapesView.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="EquipCapesView.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 3</value>
+  </data>
+  <data name="EquipCapesView.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 5, 5, 5</value>
+  </data>
+  <data name="EquipCapesView.Size" type="System.Drawing.Size, System.Drawing">
+    <value>773, 472</value>
+  </data>
+  <data name="EquipCapesView.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;EquipCapesView.Name" xml:space="preserve">
+    <value>EquipCapesView</value>
+  </data>
+  <data name="&gt;&gt;EquipCapesView.Type" xml:space="preserve">
+    <value>WzVisualizer.GUI.Controls.DataViewport, WzVisualizer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;EquipCapesView.Parent" xml:space="preserve">
+    <value>TabECapes</value>
+  </data>
+  <data name="&gt;&gt;EquipCapesView.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="TabECapes.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 25</value>
+  </data>
+  <data name="TabECapes.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 3, 3, 3</value>
+  </data>
+  <data name="TabECapes.Size" type="System.Drawing.Size, System.Drawing">
+    <value>779, 478</value>
+  </data>
+  <data name="TabECapes.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="TabECapes.Text" xml:space="preserve">
+    <value>Capes</value>
+  </data>
+  <data name="&gt;&gt;TabECapes.Name" xml:space="preserve">
+    <value>TabECapes</value>
+  </data>
+  <data name="&gt;&gt;TabECapes.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;TabECapes.Parent" xml:space="preserve">
+    <value>EquipTab</value>
+  </data>
+  <data name="&gt;&gt;TabECapes.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="EquipGlovesView.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="EquipGlovesView.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 3</value>
+  </data>
+  <data name="EquipGlovesView.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 5, 5, 5</value>
+  </data>
+  <data name="EquipGlovesView.Size" type="System.Drawing.Size, System.Drawing">
+    <value>773, 472</value>
+  </data>
+  <data name="EquipGlovesView.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;EquipGlovesView.Name" xml:space="preserve">
+    <value>EquipGlovesView</value>
+  </data>
+  <data name="&gt;&gt;EquipGlovesView.Type" xml:space="preserve">
+    <value>WzVisualizer.GUI.Controls.DataViewport, WzVisualizer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;EquipGlovesView.Parent" xml:space="preserve">
+    <value>TabEGloves</value>
+  </data>
+  <data name="&gt;&gt;EquipGlovesView.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="TabEGloves.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 25</value>
+  </data>
+  <data name="TabEGloves.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 3, 3, 3</value>
+  </data>
+  <data name="TabEGloves.Size" type="System.Drawing.Size, System.Drawing">
+    <value>779, 478</value>
+  </data>
+  <data name="TabEGloves.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="TabEGloves.Text" xml:space="preserve">
+    <value>Gloves</value>
+  </data>
+  <data name="&gt;&gt;TabEGloves.Name" xml:space="preserve">
+    <value>TabEGloves</value>
+  </data>
+  <data name="&gt;&gt;TabEGloves.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;TabEGloves.Parent" xml:space="preserve">
+    <value>EquipTab</value>
+  </data>
+  <data name="&gt;&gt;TabEGloves.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="EquipRingsView.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="EquipRingsView.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 3</value>
+  </data>
+  <data name="EquipRingsView.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 5, 5, 5</value>
+  </data>
+  <data name="EquipRingsView.Size" type="System.Drawing.Size, System.Drawing">
+    <value>773, 472</value>
+  </data>
+  <data name="EquipRingsView.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;EquipRingsView.Name" xml:space="preserve">
+    <value>EquipRingsView</value>
+  </data>
+  <data name="&gt;&gt;EquipRingsView.Type" xml:space="preserve">
+    <value>WzVisualizer.GUI.Controls.DataViewport, WzVisualizer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;EquipRingsView.Parent" xml:space="preserve">
+    <value>TabERings</value>
+  </data>
+  <data name="&gt;&gt;EquipRingsView.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="TabERings.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 25</value>
+  </data>
+  <data name="TabERings.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 3, 3, 3</value>
+  </data>
+  <data name="TabERings.Size" type="System.Drawing.Size, System.Drawing">
+    <value>779, 478</value>
+  </data>
+  <data name="TabERings.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="TabERings.Text" xml:space="preserve">
+    <value>Rings</value>
+  </data>
+  <data name="&gt;&gt;TabERings.Name" xml:space="preserve">
+    <value>TabERings</value>
+  </data>
+  <data name="&gt;&gt;TabERings.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;TabERings.Parent" xml:space="preserve">
+    <value>EquipTab</value>
+  </data>
+  <data name="&gt;&gt;TabERings.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <data name="EquipShieldsView.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="EquipShieldsView.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 3</value>
+  </data>
+  <data name="EquipShieldsView.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 5, 5, 5</value>
+  </data>
+  <data name="EquipShieldsView.Size" type="System.Drawing.Size, System.Drawing">
+    <value>773, 472</value>
+  </data>
+  <data name="EquipShieldsView.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;EquipShieldsView.Name" xml:space="preserve">
+    <value>EquipShieldsView</value>
+  </data>
+  <data name="&gt;&gt;EquipShieldsView.Type" xml:space="preserve">
+    <value>WzVisualizer.GUI.Controls.DataViewport, WzVisualizer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;EquipShieldsView.Parent" xml:space="preserve">
+    <value>TabEShields</value>
+  </data>
+  <data name="&gt;&gt;EquipShieldsView.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="TabEShields.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 25</value>
+  </data>
+  <data name="TabEShields.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 3, 3, 3</value>
+  </data>
+  <data name="TabEShields.Size" type="System.Drawing.Size, System.Drawing">
+    <value>779, 478</value>
+  </data>
+  <data name="TabEShields.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="TabEShields.Text" xml:space="preserve">
+    <value>Shields</value>
+  </data>
+  <data name="&gt;&gt;TabEShields.Name" xml:space="preserve">
+    <value>TabEShields</value>
+  </data>
+  <data name="&gt;&gt;TabEShields.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;TabEShields.Parent" xml:space="preserve">
+    <value>EquipTab</value>
+  </data>
+  <data name="&gt;&gt;TabEShields.ZOrder" xml:space="preserve">
+    <value>12</value>
+  </data>
+  <data name="EquipMountsView.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="EquipMountsView.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 3</value>
+  </data>
+  <data name="EquipMountsView.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 5, 5, 5</value>
+  </data>
+  <data name="EquipMountsView.Size" type="System.Drawing.Size, System.Drawing">
+    <value>773, 472</value>
+  </data>
+  <data name="EquipMountsView.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;EquipMountsView.Name" xml:space="preserve">
+    <value>EquipMountsView</value>
+  </data>
+  <data name="&gt;&gt;EquipMountsView.Type" xml:space="preserve">
+    <value>WzVisualizer.GUI.Controls.DataViewport, WzVisualizer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;EquipMountsView.Parent" xml:space="preserve">
+    <value>TabETames</value>
+  </data>
+  <data name="&gt;&gt;EquipMountsView.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="TabETames.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 25</value>
+  </data>
+  <data name="TabETames.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 3, 3, 3</value>
+  </data>
+  <data name="TabETames.Size" type="System.Drawing.Size, System.Drawing">
+    <value>779, 478</value>
+  </data>
+  <data name="TabETames.TabIndex" type="System.Int32, mscorlib">
+    <value>13</value>
+  </data>
+  <data name="TabETames.Text" xml:space="preserve">
+    <value>Mounts</value>
+  </data>
+  <data name="&gt;&gt;TabETames.Name" xml:space="preserve">
+    <value>TabETames</value>
+  </data>
+  <data name="&gt;&gt;TabETames.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;TabETames.Parent" xml:space="preserve">
+    <value>EquipTab</value>
+  </data>
+  <data name="&gt;&gt;TabETames.ZOrder" xml:space="preserve">
+    <value>13</value>
+  </data>
+  <data name="EquipTab.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="EquipTab.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="EquipTab.Size" type="System.Drawing.Size, System.Drawing">
+    <value>787, 504</value>
+  </data>
+  <data name="EquipTab.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;EquipTab.Name" xml:space="preserve">
+    <value>EquipTab</value>
+  </data>
+  <data name="&gt;&gt;EquipTab.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabControl, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;EquipTab.Parent" xml:space="preserve">
+    <value>TabEquipsPage</value>
+  </data>
+  <data name="&gt;&gt;EquipTab.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="TabEquipsPage.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 29</value>
+  </data>
+  <data name="TabEquipsPage.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 0, 0, 0</value>
+  </data>
+  <data name="TabEquipsPage.Size" type="System.Drawing.Size, System.Drawing">
+    <value>787, 504</value>
+  </data>
+  <data name="TabEquipsPage.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="TabEquipsPage.Text" xml:space="preserve">
+    <value>Equips</value>
+  </data>
+  <data name="&gt;&gt;TabEquipsPage.Name" xml:space="preserve">
+    <value>TabEquipsPage</value>
+  </data>
+  <data name="&gt;&gt;TabEquipsPage.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;TabEquipsPage.Parent" xml:space="preserve">
+    <value>TabControlMain</value>
+  </data>
+  <data name="&gt;&gt;TabEquipsPage.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="UseConsumeView.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="UseConsumeView.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 3</value>
+  </data>
+  <data name="UseConsumeView.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="UseConsumeView.Size" type="System.Drawing.Size, System.Drawing">
+    <value>767, 463</value>
+  </data>
+  <data name="UseConsumeView.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;UseConsumeView.Name" xml:space="preserve">
+    <value>UseConsumeView</value>
+  </data>
+  <data name="&gt;&gt;UseConsumeView.Type" xml:space="preserve">
+    <value>WzVisualizer.GUI.Controls.DataViewport, WzVisualizer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;UseConsumeView.Parent" xml:space="preserve">
+    <value>TabUConsumes</value>
+  </data>
+  <data name="&gt;&gt;UseConsumeView.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="TabUConsumes.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 25</value>
+  </data>
+  <data name="TabUConsumes.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 3, 3, 3</value>
+  </data>
+  <data name="TabUConsumes.Size" type="System.Drawing.Size, System.Drawing">
+    <value>773, 469</value>
+  </data>
+  <data name="TabUConsumes.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="TabUConsumes.Text" xml:space="preserve">
+    <value>Consumes</value>
+  </data>
+  <data name="&gt;&gt;TabUConsumes.Name" xml:space="preserve">
+    <value>TabUConsumes</value>
+  </data>
+  <data name="&gt;&gt;TabUConsumes.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;TabUConsumes.Parent" xml:space="preserve">
+    <value>TabUse</value>
+  </data>
+  <data name="&gt;&gt;TabUConsumes.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="UseScrollsView.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="UseScrollsView.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 3</value>
+  </data>
+  <data name="UseScrollsView.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="UseScrollsView.Size" type="System.Drawing.Size, System.Drawing">
+    <value>767, 466</value>
+  </data>
+  <data name="UseScrollsView.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;UseScrollsView.Name" xml:space="preserve">
+    <value>UseScrollsView</value>
+  </data>
+  <data name="&gt;&gt;UseScrollsView.Type" xml:space="preserve">
+    <value>WzVisualizer.GUI.Controls.DataViewport, WzVisualizer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;UseScrollsView.Parent" xml:space="preserve">
+    <value>TabUScrolls</value>
+  </data>
+  <data name="&gt;&gt;UseScrollsView.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="TabUScrolls.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 25</value>
+  </data>
+  <data name="TabUScrolls.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 3, 3, 3</value>
+  </data>
+  <data name="TabUScrolls.Size" type="System.Drawing.Size, System.Drawing">
+    <value>773, 472</value>
+  </data>
+  <data name="TabUScrolls.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="TabUScrolls.Text" xml:space="preserve">
+    <value>Scrolls</value>
+  </data>
+  <data name="&gt;&gt;TabUScrolls.Name" xml:space="preserve">
+    <value>TabUScrolls</value>
+  </data>
+  <data name="&gt;&gt;TabUScrolls.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;TabUScrolls.Parent" xml:space="preserve">
+    <value>TabUse</value>
+  </data>
+  <data name="&gt;&gt;TabUScrolls.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="UseProjectileView.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="UseProjectileView.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 3</value>
+  </data>
+  <data name="UseProjectileView.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="UseProjectileView.Size" type="System.Drawing.Size, System.Drawing">
+    <value>767, 466</value>
+  </data>
+  <data name="UseProjectileView.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;UseProjectileView.Name" xml:space="preserve">
+    <value>UseProjectileView</value>
+  </data>
+  <data name="&gt;&gt;UseProjectileView.Type" xml:space="preserve">
+    <value>WzVisualizer.GUI.Controls.DataViewport, WzVisualizer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;UseProjectileView.Parent" xml:space="preserve">
+    <value>TabUProjectiles</value>
+  </data>
+  <data name="&gt;&gt;UseProjectileView.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="TabUProjectiles.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 25</value>
+  </data>
+  <data name="TabUProjectiles.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 3, 3, 3</value>
+  </data>
+  <data name="TabUProjectiles.Size" type="System.Drawing.Size, System.Drawing">
+    <value>773, 472</value>
+  </data>
+  <data name="TabUProjectiles.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="TabUProjectiles.Text" xml:space="preserve">
+    <value>Projectiles</value>
+  </data>
+  <data name="&gt;&gt;TabUProjectiles.Name" xml:space="preserve">
+    <value>TabUProjectiles</value>
+  </data>
+  <data name="&gt;&gt;TabUProjectiles.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;TabUProjectiles.Parent" xml:space="preserve">
+    <value>TabUse</value>
+  </data>
+  <data name="&gt;&gt;TabUProjectiles.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="TabUse.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="TabUse.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 3</value>
+  </data>
+  <data name="TabUse.Size" type="System.Drawing.Size, System.Drawing">
+    <value>781, 498</value>
+  </data>
+  <data name="TabUse.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;TabUse.Name" xml:space="preserve">
+    <value>TabUse</value>
+  </data>
+  <data name="&gt;&gt;TabUse.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabControl, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;TabUse.Parent" xml:space="preserve">
+    <value>TabUsePage</value>
+  </data>
+  <data name="&gt;&gt;TabUse.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="TabUsePage.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 29</value>
+  </data>
+  <data name="TabUsePage.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 3, 3, 3</value>
+  </data>
+  <data name="TabUsePage.Size" type="System.Drawing.Size, System.Drawing">
+    <value>787, 504</value>
+  </data>
+  <data name="TabUsePage.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="TabUsePage.Text" xml:space="preserve">
+    <value>Use</value>
+  </data>
+  <data name="&gt;&gt;TabUsePage.Name" xml:space="preserve">
+    <value>TabUsePage</value>
+  </data>
+  <data name="&gt;&gt;TabUsePage.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;TabUsePage.Parent" xml:space="preserve">
+    <value>TabControlMain</value>
+  </data>
+  <data name="&gt;&gt;TabUsePage.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="SetupChairsView.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="SetupChairsView.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 3</value>
+  </data>
+  <data name="SetupChairsView.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="SetupChairsView.Size" type="System.Drawing.Size, System.Drawing">
+    <value>767, 463</value>
+  </data>
+  <data name="SetupChairsView.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;SetupChairsView.Name" xml:space="preserve">
+    <value>SetupChairsView</value>
+  </data>
+  <data name="&gt;&gt;SetupChairsView.Type" xml:space="preserve">
+    <value>WzVisualizer.GUI.Controls.DataViewport, WzVisualizer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;SetupChairsView.Parent" xml:space="preserve">
+    <value>TabSChairs</value>
+  </data>
+  <data name="&gt;&gt;SetupChairsView.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="TabSChairs.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 25</value>
+  </data>
+  <data name="TabSChairs.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 3, 3, 3</value>
+  </data>
+  <data name="TabSChairs.Size" type="System.Drawing.Size, System.Drawing">
+    <value>773, 469</value>
+  </data>
+  <data name="TabSChairs.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="TabSChairs.Text" xml:space="preserve">
+    <value>Chairs</value>
+  </data>
+  <data name="&gt;&gt;TabSChairs.Name" xml:space="preserve">
+    <value>TabSChairs</value>
+  </data>
+  <data name="&gt;&gt;TabSChairs.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;TabSChairs.Parent" xml:space="preserve">
+    <value>TabSetup</value>
+  </data>
+  <data name="&gt;&gt;TabSChairs.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="SetupOthersView.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="SetupOthersView.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 3</value>
+  </data>
+  <data name="SetupOthersView.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="SetupOthersView.Size" type="System.Drawing.Size, System.Drawing">
+    <value>767, 466</value>
+  </data>
+  <data name="SetupOthersView.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;SetupOthersView.Name" xml:space="preserve">
+    <value>SetupOthersView</value>
+  </data>
+  <data name="&gt;&gt;SetupOthersView.Type" xml:space="preserve">
+    <value>WzVisualizer.GUI.Controls.DataViewport, WzVisualizer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;SetupOthersView.Parent" xml:space="preserve">
+    <value>TabSOther</value>
+  </data>
+  <data name="&gt;&gt;SetupOthersView.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="TabSOther.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 25</value>
+  </data>
+  <data name="TabSOther.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 3, 3, 3</value>
+  </data>
+  <data name="TabSOther.Size" type="System.Drawing.Size, System.Drawing">
+    <value>773, 472</value>
+  </data>
+  <data name="TabSOther.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="TabSOther.Text" xml:space="preserve">
+    <value>Others</value>
+  </data>
+  <data name="&gt;&gt;TabSOther.Name" xml:space="preserve">
+    <value>TabSOther</value>
+  </data>
+  <data name="&gt;&gt;TabSOther.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;TabSOther.Parent" xml:space="preserve">
+    <value>TabSetup</value>
+  </data>
+  <data name="&gt;&gt;TabSOther.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="TabSetup.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="TabSetup.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 3</value>
+  </data>
+  <data name="TabSetup.Size" type="System.Drawing.Size, System.Drawing">
+    <value>781, 498</value>
+  </data>
+  <data name="TabSetup.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;TabSetup.Name" xml:space="preserve">
+    <value>TabSetup</value>
+  </data>
+  <data name="&gt;&gt;TabSetup.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabControl, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;TabSetup.Parent" xml:space="preserve">
+    <value>TabSetupPage</value>
+  </data>
+  <data name="&gt;&gt;TabSetup.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="TabSetupPage.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 29</value>
+  </data>
+  <data name="TabSetupPage.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 3, 3, 3</value>
+  </data>
+  <data name="TabSetupPage.Size" type="System.Drawing.Size, System.Drawing">
+    <value>787, 504</value>
+  </data>
+  <data name="TabSetupPage.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="TabSetupPage.Text" xml:space="preserve">
+    <value>Setup</value>
+  </data>
+  <data name="&gt;&gt;TabSetupPage.Name" xml:space="preserve">
+    <value>TabSetupPage</value>
+  </data>
+  <data name="&gt;&gt;TabSetupPage.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;TabSetupPage.Parent" xml:space="preserve">
+    <value>TabControlMain</value>
+  </data>
+  <data name="&gt;&gt;TabSetupPage.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="EtcView.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="EtcView.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 3</value>
+  </data>
+  <data name="EtcView.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="EtcView.Size" type="System.Drawing.Size, System.Drawing">
+    <value>781, 498</value>
+  </data>
+  <data name="EtcView.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;EtcView.Name" xml:space="preserve">
+    <value>EtcView</value>
+  </data>
+  <data name="&gt;&gt;EtcView.Type" xml:space="preserve">
+    <value>WzVisualizer.GUI.Controls.DataViewport, WzVisualizer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;EtcView.Parent" xml:space="preserve">
+    <value>TabEtcPage</value>
+  </data>
+  <data name="&gt;&gt;EtcView.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="TabEtcPage.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 29</value>
+  </data>
+  <data name="TabEtcPage.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 3, 3, 3</value>
+  </data>
+  <data name="TabEtcPage.Size" type="System.Drawing.Size, System.Drawing">
+    <value>787, 504</value>
+  </data>
+  <data name="TabEtcPage.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="TabEtcPage.Text" xml:space="preserve">
+    <value>Etc</value>
+  </data>
+  <data name="&gt;&gt;TabEtcPage.Name" xml:space="preserve">
+    <value>TabEtcPage</value>
+  </data>
+  <data name="&gt;&gt;TabEtcPage.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;TabEtcPage.Parent" xml:space="preserve">
+    <value>TabControlMain</value>
+  </data>
+  <data name="&gt;&gt;TabEtcPage.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="CashView.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="CashView.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 3</value>
+  </data>
+  <data name="CashView.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="CashView.Size" type="System.Drawing.Size, System.Drawing">
+    <value>781, 498</value>
+  </data>
+  <data name="CashView.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;CashView.Name" xml:space="preserve">
+    <value>CashView</value>
+  </data>
+  <data name="&gt;&gt;CashView.Type" xml:space="preserve">
+    <value>WzVisualizer.GUI.Controls.DataViewport, WzVisualizer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;CashView.Parent" xml:space="preserve">
+    <value>TabCashPage</value>
+  </data>
+  <data name="&gt;&gt;CashView.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="TabCashPage.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 29</value>
+  </data>
+  <data name="TabCashPage.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 3, 3, 3</value>
+  </data>
+  <data name="TabCashPage.Size" type="System.Drawing.Size, System.Drawing">
+    <value>787, 504</value>
+  </data>
+  <data name="TabCashPage.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="TabCashPage.Text" xml:space="preserve">
+    <value>Cash</value>
+  </data>
+  <data name="&gt;&gt;TabCashPage.Name" xml:space="preserve">
+    <value>TabCashPage</value>
+  </data>
+  <data name="&gt;&gt;TabCashPage.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;TabCashPage.Parent" xml:space="preserve">
+    <value>TabControlMain</value>
+  </data>
+  <data name="&gt;&gt;TabCashPage.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="MapsView.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="MapsView.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 3</value>
+  </data>
+  <data name="MapsView.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="MapsView.Size" type="System.Drawing.Size, System.Drawing">
+    <value>781, 498</value>
+  </data>
+  <data name="MapsView.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;MapsView.Name" xml:space="preserve">
+    <value>MapsView</value>
+  </data>
+  <data name="&gt;&gt;MapsView.Type" xml:space="preserve">
+    <value>WzVisualizer.GUI.Controls.DataViewport, WzVisualizer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;MapsView.Parent" xml:space="preserve">
+    <value>TabMapsPage</value>
+  </data>
+  <data name="&gt;&gt;MapsView.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="TabMapsPage.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 29</value>
+  </data>
+  <data name="TabMapsPage.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 3, 3, 3</value>
+  </data>
+  <data name="TabMapsPage.Size" type="System.Drawing.Size, System.Drawing">
+    <value>787, 504</value>
+  </data>
+  <data name="TabMapsPage.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="TabMapsPage.Text" xml:space="preserve">
+    <value>Maps</value>
+  </data>
+  <data name="&gt;&gt;TabMapsPage.Name" xml:space="preserve">
+    <value>TabMapsPage</value>
+  </data>
+  <data name="&gt;&gt;TabMapsPage.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;TabMapsPage.Parent" xml:space="preserve">
+    <value>TabControlMain</value>
+  </data>
+  <data name="&gt;&gt;TabMapsPage.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="MobsView.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="MobsView.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 3</value>
+  </data>
+  <data name="MobsView.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="MobsView.Size" type="System.Drawing.Size, System.Drawing">
+    <value>781, 498</value>
+  </data>
+  <data name="MobsView.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;MobsView.Name" xml:space="preserve">
+    <value>MobsView</value>
+  </data>
+  <data name="&gt;&gt;MobsView.Type" xml:space="preserve">
+    <value>WzVisualizer.GUI.Controls.DataViewport, WzVisualizer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;MobsView.Parent" xml:space="preserve">
+    <value>TabMobsPage</value>
+  </data>
+  <data name="&gt;&gt;MobsView.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="TabMobsPage.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 29</value>
+  </data>
+  <data name="TabMobsPage.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 3, 3, 3</value>
+  </data>
+  <data name="TabMobsPage.Size" type="System.Drawing.Size, System.Drawing">
+    <value>787, 504</value>
+  </data>
+  <data name="TabMobsPage.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="TabMobsPage.Text" xml:space="preserve">
+    <value>Mobs</value>
+  </data>
+  <data name="&gt;&gt;TabMobsPage.Name" xml:space="preserve">
+    <value>TabMobsPage</value>
+  </data>
+  <data name="&gt;&gt;TabMobsPage.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;TabMobsPage.Parent" xml:space="preserve">
+    <value>TabControlMain</value>
+  </data>
+  <data name="&gt;&gt;TabMobsPage.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="SkillsView.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="SkillsView.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 3</value>
+  </data>
+  <data name="SkillsView.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="SkillsView.Size" type="System.Drawing.Size, System.Drawing">
+    <value>781, 498</value>
+  </data>
+  <data name="SkillsView.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;SkillsView.Name" xml:space="preserve">
+    <value>SkillsView</value>
+  </data>
+  <data name="&gt;&gt;SkillsView.Type" xml:space="preserve">
+    <value>WzVisualizer.GUI.Controls.DataViewport, WzVisualizer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;SkillsView.Parent" xml:space="preserve">
+    <value>TabSkillsPage</value>
+  </data>
+  <data name="&gt;&gt;SkillsView.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="TabSkillsPage.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 29</value>
+  </data>
+  <data name="TabSkillsPage.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 3, 3, 3</value>
+  </data>
+  <data name="TabSkillsPage.Size" type="System.Drawing.Size, System.Drawing">
+    <value>787, 504</value>
+  </data>
+  <data name="TabSkillsPage.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="TabSkillsPage.Text" xml:space="preserve">
+    <value>Skills</value>
+  </data>
+  <data name="&gt;&gt;TabSkillsPage.Name" xml:space="preserve">
+    <value>TabSkillsPage</value>
+  </data>
+  <data name="&gt;&gt;TabSkillsPage.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;TabSkillsPage.Parent" xml:space="preserve">
+    <value>TabControlMain</value>
+  </data>
+  <data name="&gt;&gt;TabSkillsPage.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="NPCView.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="NPCView.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 3</value>
+  </data>
+  <data name="NPCView.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="NPCView.Size" type="System.Drawing.Size, System.Drawing">
+    <value>781, 498</value>
+  </data>
+  <data name="NPCView.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;NPCView.Name" xml:space="preserve">
+    <value>NPCView</value>
+  </data>
+  <data name="&gt;&gt;NPCView.Type" xml:space="preserve">
+    <value>WzVisualizer.GUI.Controls.DataViewport, WzVisualizer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;NPCView.Parent" xml:space="preserve">
+    <value>TabNPCsPage</value>
+  </data>
+  <data name="&gt;&gt;NPCView.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="TabNPCsPage.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 29</value>
+  </data>
+  <data name="TabNPCsPage.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 3, 3, 3</value>
+  </data>
+  <data name="TabNPCsPage.Size" type="System.Drawing.Size, System.Drawing">
+    <value>787, 504</value>
+  </data>
+  <data name="TabNPCsPage.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="TabNPCsPage.Text" xml:space="preserve">
+    <value>NPCs</value>
+  </data>
+  <data name="&gt;&gt;TabNPCsPage.Name" xml:space="preserve">
+    <value>TabNPCsPage</value>
+  </data>
+  <data name="&gt;&gt;TabNPCsPage.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;TabNPCsPage.Parent" xml:space="preserve">
+    <value>TabControlMain</value>
+  </data>
+  <data name="&gt;&gt;TabNPCsPage.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="PetsView.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="PetsView.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 3</value>
+  </data>
+  <data name="PetsView.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="PetsView.Size" type="System.Drawing.Size, System.Drawing">
+    <value>781, 498</value>
+  </data>
+  <data name="PetsView.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;PetsView.Name" xml:space="preserve">
+    <value>PetsView</value>
+  </data>
+  <data name="&gt;&gt;PetsView.Type" xml:space="preserve">
+    <value>WzVisualizer.GUI.Controls.DataViewport, WzVisualizer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;PetsView.Parent" xml:space="preserve">
+    <value>TabPetsPage</value>
+  </data>
+  <data name="&gt;&gt;PetsView.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="TabPetsPage.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 29</value>
+  </data>
+  <data name="TabPetsPage.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 3, 3, 3</value>
+  </data>
+  <data name="TabPetsPage.Size" type="System.Drawing.Size, System.Drawing">
+    <value>787, 504</value>
+  </data>
+  <data name="TabPetsPage.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="TabPetsPage.Text" xml:space="preserve">
+    <value>Pets</value>
+  </data>
+  <data name="&gt;&gt;TabPetsPage.Name" xml:space="preserve">
+    <value>TabPetsPage</value>
+  </data>
+  <data name="&gt;&gt;TabPetsPage.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;TabPetsPage.Parent" xml:space="preserve">
+    <value>TabControlMain</value>
+  </data>
+  <data name="&gt;&gt;TabPetsPage.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="ReactorView.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="ReactorView.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 3</value>
+  </data>
+  <data name="ReactorView.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="ReactorView.Size" type="System.Drawing.Size, System.Drawing">
+    <value>781, 498</value>
+  </data>
+  <data name="ReactorView.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;ReactorView.Name" xml:space="preserve">
+    <value>ReactorView</value>
+  </data>
+  <data name="&gt;&gt;ReactorView.Type" xml:space="preserve">
+    <value>WzVisualizer.GUI.Controls.DataViewport, WzVisualizer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;ReactorView.Parent" xml:space="preserve">
+    <value>TabReactors</value>
+  </data>
+  <data name="&gt;&gt;ReactorView.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="TabReactors.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 29</value>
+  </data>
+  <data name="TabReactors.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 3, 3, 3</value>
+  </data>
+  <data name="TabReactors.Size" type="System.Drawing.Size, System.Drawing">
+    <value>787, 504</value>
+  </data>
+  <data name="TabReactors.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="TabReactors.Text" xml:space="preserve">
+    <value>Reactors</value>
+  </data>
+  <data name="&gt;&gt;TabReactors.Name" xml:space="preserve">
+    <value>TabReactors</value>
+  </data>
+  <data name="&gt;&gt;TabReactors.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;TabReactors.Parent" xml:space="preserve">
+    <value>TabControlMain</value>
+  </data>
+  <data name="&gt;&gt;TabReactors.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="TabControlMain.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt</value>
+  </data>
+  <data name="TabControlMain.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 27</value>
+  </data>
+  <data name="TabControlMain.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 0, 0, 0</value>
+  </data>
+  <data name="TabControlMain.Padding" type="System.Drawing.Point, System.Drawing">
+    <value>15, 5</value>
+  </data>
+  <data name="TabControlMain.Size" type="System.Drawing.Size, System.Drawing">
+    <value>795, 537</value>
+  </data>
+  <data name="TabControlMain.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;TabControlMain.Name" xml:space="preserve">
+    <value>TabControlMain</value>
+  </data>
+  <data name="&gt;&gt;TabControlMain.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabControl, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;TabControlMain.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;TabControlMain.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="wzPathTextbox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>49, 6</value>
+  </data>
+  <data name="wzPathTextbox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>222, 22</value>
+  </data>
+  <data name="wzPathTextbox.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;wzPathTextbox.Name" xml:space="preserve">
+    <value>wzPathTextbox</value>
+  </data>
+  <data name="&gt;&gt;wzPathTextbox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;wzPathTextbox.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;wzPathTextbox.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="searchTextbox.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Right</value>
+  </data>
+  <data name="searchTextbox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>584, 6</value>
+  </data>
+  <data name="searchTextbox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>132, 22</value>
+  </data>
+  <data name="searchTextbox.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;searchTextbox.Name" xml:space="preserve">
+    <value>searchTextbox</value>
+  </data>
+  <data name="&gt;&gt;searchTextbox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;searchTextbox.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;searchTextbox.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="wzPathLabel.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="wzPathLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>7, 8</value>
+  </data>
+  <data name="wzPathLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>35, 12</value>
+  </data>
+  <data name="wzPathLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="wzPathLabel.Text" xml:space="preserve">
+    <value>Folder</value>
+  </data>
+  <data name="wzPathLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;wzPathLabel.Name" xml:space="preserve">
+    <value>wzPathLabel</value>
+  </data>
+  <data name="&gt;&gt;wzPathLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;wzPathLabel.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;wzPathLabel.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="loadButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>278, 6</value>
+  </data>
+  <data name="loadButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>61, 18</value>
+  </data>
+  <data name="loadButton.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="loadButton.Text" xml:space="preserve">
+    <value>Load</value>
+  </data>
+  <data name="&gt;&gt;loadButton.Name" xml:space="preserve">
+    <value>loadButton</value>
+  </data>
+  <data name="&gt;&gt;loadButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;loadButton.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;loadButton.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="searchButton.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Right</value>
+  </data>
+  <data name="searchButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>720, 6</value>
+  </data>
+  <data name="searchButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>64, 18</value>
+  </data>
+  <data name="searchButton.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="searchButton.Text" xml:space="preserve">
+    <value>Search</value>
+  </data>
+  <data name="&gt;&gt;searchButton.Name" xml:space="preserve">
+    <value>searchButton</value>
+  </data>
+  <data name="&gt;&gt;searchButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;searchButton.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;searchButton.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="saveButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>345, 6</value>
+  </data>
+  <data name="saveButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>61, 18</value>
+  </data>
+  <data name="saveButton.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="saveButton.Text" xml:space="preserve">
+    <value>Save</value>
+  </data>
+  <data name="&gt;&gt;saveButton.Name" xml:space="preserve">
+    <value>saveButton</value>
+  </data>
+  <data name="&gt;&gt;saveButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;saveButton.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;saveButton.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="exportButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>412, 6</value>
+  </data>
+  <data name="exportButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>85, 18</value>
+  </data>
+  <data name="exportButton.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="exportButton.Text" xml:space="preserve">
+    <value>Export Images</value>
+  </data>
+  <data name="&gt;&gt;exportButton.Name" xml:space="preserve">
+    <value>exportButton</value>
+  </data>
+  <data name="&gt;&gt;exportButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;exportButton.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;exportButton.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
   <metadata name="mainFormBindingSource.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>22, 18</value>
   </metadata>
-  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>6, 12</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>795, 564</value>
+  </data>
   <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         AAABAAUAEBAAAAEAIABoBAAAVgAAABgYAAABACAAiAkAAL4EAAAgIAAAAQAgAKgQAABGDgAAMDAAAAEA
@@ -436,5 +2265,20 @@
         9hzk1fYX5NX2EOTV9grk1fYE5NX2AfABAADAAAAAwAAAAIAAAACAAAAAgAAAAIAAAACAAAAAgAAAAIAA
         AACAAAAAgAAAAIAAAADAAAAAwAAAAOAAAAA=
 </value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>WzVisualizer - v1.6.7</value>
+  </data>
+  <data name="&gt;&gt;mainFormBindingSource.Name" xml:space="preserve">
+    <value>mainFormBindingSource</value>
+  </data>
+  <data name="&gt;&gt;mainFormBindingSource.Type" xml:space="preserve">
+    <value>System.Windows.Forms.BindingSource, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>MainForm</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
 </root>

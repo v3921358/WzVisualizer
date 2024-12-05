@@ -26,6 +26,7 @@ namespace WzVisualizer.GUI.Controls {
         /// the contents of this method with the code editor.
         /// </summary>
         private void InitializeComponent() {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(DataViewport));
             this.GridView = new System.Windows.Forms.DataGridView();
             this.propID = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.propBitmap = new System.Windows.Forms.DataGridViewImageColumn();
@@ -45,36 +46,31 @@ namespace WzVisualizer.GUI.Controls {
             this.propBitmap,
             this.propName,
             this.propProperties});
-            this.GridView.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.GridView.Location = new System.Drawing.Point(0, 0);
+            resources.ApplyResources(this.GridView, "GridView");
             this.GridView.Name = "GridView";
             this.GridView.ReadOnly = true;
             this.GridView.RowTemplate.Height = 50;
-            this.GridView.Size = new System.Drawing.Size(500, 250);
-            this.GridView.TabIndex = 0;
             // 
             // propID
             // 
             this.propID.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.AllCells;
             this.propID.DataPropertyName = "IDProperty";
-            this.propID.HeaderText = "ID";
+            resources.ApplyResources(this.propID, "propID");
             this.propID.Name = "propID";
             this.propID.ReadOnly = true;
-            this.propID.Width = 43;
             // 
             // propBitmap
             // 
             this.propBitmap.DataPropertyName = "ImageProperty";
-            this.propBitmap.HeaderText = "Image";
+            resources.ApplyResources(this.propBitmap, "propBitmap");
             this.propBitmap.Name = "propBitmap";
             this.propBitmap.ReadOnly = true;
-            this.propBitmap.Width = 150;
             // 
             // propName
             // 
             this.propName.DataPropertyName = "NameProperty";
             this.propName.FillWeight = 130F;
-            this.propName.HeaderText = "Name";
+            resources.ApplyResources(this.propName, "propName");
             this.propName.Name = "propName";
             this.propName.ReadOnly = true;
             // 
@@ -82,17 +78,16 @@ namespace WzVisualizer.GUI.Controls {
             // 
             this.propProperties.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
             this.propProperties.DataPropertyName = "PropertiesProperty";
-            this.propProperties.HeaderText = "Properties";
+            resources.ApplyResources(this.propProperties, "propProperties");
             this.propProperties.Name = "propProperties";
             this.propProperties.ReadOnly = true;
             // 
             // DataViewport
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            resources.ApplyResources(this, "$this");
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.Controls.Add(this.GridView);
             this.Name = "DataViewport";
-            this.Size = new System.Drawing.Size(500, 250);
             ((System.ComponentModel.ISupportInitialize)(this.GridView)).EndInit();
             this.ResumeLayout(false);
 

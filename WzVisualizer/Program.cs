@@ -1,7 +1,8 @@
 ﻿using System;
+using System.Globalization;
+using System.Threading;
 using System.Windows.Forms;
 using WzVisualizer.GUI;
-using WzVisualizer.Util;
 
 namespace WzVisualizer
 {
@@ -13,9 +14,17 @@ namespace WzVisualizer
         [STAThread]
         static void Main()
         {
+            ApplyCulture();
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new MainForm());
+        }
+
+        static void ApplyCulture()
+        {
+            CultureInfo culture = CultureInfo.CurrentCulture;
+            Thread.CurrentThread.CurrentUICulture = culture;
+            Thread.CurrentThread.CurrentCulture = culture;
         }
     }
 }

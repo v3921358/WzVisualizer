@@ -118,67 +118,63 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="BadEncryption" xml:space="preserve">
-    <value>Failed to parse the WZ file. Perhaps the wrong WZ encryption is being used?</value>
-  </data>
-  <data name="GameFilesNotFound" xml:space="preserve">
-    <value>Failed to find game data. Please make sure your folder selection is correct.</value>
-  </data>
-  <data name="Error" xml:space="preserve">
-    <value>Error</value>
-  </data>
-  <data name="FileNotFound" xml:space="preserve">
-    <value>File Not Found</value>
+    <value>無法解析 WZ 檔。也許使用了錯誤的 WZ 加密？</value>
   </data>
   <data name="CompleteSaveBIN" xml:space="preserve">
-    <value>Binary files successfully saved</value>
+    <value>Bin資料已儲存完成</value>
   </data>
   <data name="CompleteSaveImages" xml:space="preserve">
-    <value>Images successfully saved</value>
+    <value>圖片已儲存完成</value>
+  </data>
+  <data name="Error" xml:space="preserve">
+    <value>錯誤</value>
+  </data>
+  <data name="ErrorProcessing" xml:space="preserve">
+    <value>處理資料失敗 ({0}): {1}</value>
+  </data>
+  <data name="ExportFolder" xml:space="preserve">
+    <value>提取</value>
   </data>
   <data name="FileExtensionWZ" xml:space="preserve">
     <value>.wz</value>
   </data>
-  <data name="MassReadWarning" xml:space="preserve">
-    <value>You have opted to load every tab. Are you sure you want to do this?</value>
+  <data name="FileNotFound" xml:space="preserve">
+    <value>找不到檔案</value>
   </data>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="MissingIco" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\missingno.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="ErrorProcessing" xml:space="preserve">
-    <value>Failed to process data ({0}): {1}</value>
-  </data>
-  <data name="MassWriteWarning" xml:space="preserve">
-    <value>You have opted to save every tab. Are you sure you want to do this?</value>
-  </data>
-  <data name="Warning" xml:space="preserve">
-    <value>Warning</value>
-  </data>
-  <data name="SaveComplete" xml:space="preserve">
-    <value>Save Complete</value>
-  </data>
-  <data name="SaveAll" xml:space="preserve">
-    <value>Save All</value>
-  </data>
-  <data name="Save" xml:space="preserve">
-    <value>Save</value>
-  </data>
-  <data name="LoadAll" xml:space="preserve">
-    <value>Load All</value>
-  </data>
-  <data name="Options" xml:space="preserve">
-    <value>Options</value>
-  </data>
-  <data name="Load" xml:space="preserve">
-    <value>Load</value>
-  </data>
-  <data name="Search" xml:space="preserve">
-    <value>Search</value>
-  </data>
-  <data name="ExportFolder" xml:space="preserve">
-    <value>exports</value>
+  <data name="GameFilesNotFound" xml:space="preserve">
+    <value>找不到遊戲資料。請確保您的資料夾選擇正確。</value>
   </data>
   <data name="ImagesFolder" xml:space="preserve">
-    <value>images</value>
+    <value>圖片</value>
+  </data>
+  <data name="Load" xml:space="preserve">
+    <value>載入</value>
+  </data>
+  <data name="LoadAll" xml:space="preserve">
+    <value>載入全部</value>
+  </data>
+  <data name="MassReadWarning" xml:space="preserve">
+    <value>您已選擇載入所有類型。您確定要這樣做嗎？</value>
+  </data>
+  <data name="MassWriteWarning" xml:space="preserve">
+    <value>您已選擇儲存所有類型。您確定要這樣做嗎？</value>
+  </data>
+  <data name="Options" xml:space="preserve">
+    <value>選項</value>
+  </data>
+  <data name="Save" xml:space="preserve">
+    <value>儲存</value>
+  </data>
+  <data name="SaveAll" xml:space="preserve">
+    <value>儲存全部</value>
+  </data>
+  <data name="SaveComplete" xml:space="preserve">
+    <value>儲存完成</value>
+  </data>
+  <data name="Search" xml:space="preserve">
+    <value>搜尋</value>
+  </data>
+  <data name="Warning" xml:space="preserve">
+    <value>警告</value>
   </data>
 </root>

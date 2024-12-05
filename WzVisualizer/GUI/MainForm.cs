@@ -94,7 +94,7 @@ namespace WzVisualizer.GUI {
             LoadAll = ModifierKeys == Keys.Shift;
 
             if (LoadAll) {
-                var result = MessageBox.Show(Resources.MassReadWarning, "Warning", MessageBoxButtons.YesNo);
+                var result = MessageBox.Show(Resources.MassReadWarning, Resources.Warning, MessageBoxButtons.YesNo);
                 if (result != DialogResult.Yes) return;
             }
 
@@ -186,18 +186,18 @@ namespace WzVisualizer.GUI {
             var saveAll = LoadAll || ModifierKeys == Keys.Shift;
 
             if (!LoadAll && saveAll) {
-                var result = MessageBox.Show(Resources.MassWriteWarning, "Warning", MessageBoxButtons.YesNo);
+                var result = MessageBox.Show(Resources.MassWriteWarning, Resources.Warning, MessageBoxButtons.YesNo);
                 if (result != DialogResult.Yes) return;
             }
 
             ExportBinary(TabControlMain, saveAll);
-            MessageBox.Show(Resources.CompleteSaveBIN, "Save Complete");
+            MessageBox.Show(Resources.CompleteSaveBIN, Resources.SaveComplete);
             LoadAll = false;
         }
 
         private void BtnExport_Click(object sender, EventArgs e) {
             ExportPictures(TabControlMain, true);
-            MessageBox.Show(Resources.CompleteSaveImages, "Save Complete");
+            MessageBox.Show(Resources.CompleteSaveImages, Resources.SaveComplete);
         }
 
         /// <summary>
@@ -277,16 +277,16 @@ namespace WzVisualizer.GUI {
 
         internal void MainForm_KeyDown(object sender, KeyEventArgs e) {
             LoadAll = ModifierKeys == Keys.Shift;
-            saveButton.Text = LoadAll ? "Save All" : "Save";
-            loadButton.Text = LoadAll ? "Load All" : "Load";
-            searchButton.Text = LoadAll ? "Options" : "Search";
+            saveButton.Text = LoadAll ? Resources.SaveAll : Resources.Save;
+            loadButton.Text = LoadAll ? Resources.LoadAll : Resources.Load;
+            searchButton.Text = LoadAll ? Resources.Options : Resources.Search;
         }
 
         internal void MainForm_KeyUp(object sender, KeyEventArgs e) {
             LoadAll = ModifierKeys == Keys.Shift;
-            saveButton.Text = LoadAll ? "Save All" : "Save";
-            loadButton.Text = LoadAll ? "Load All" : "Load";
-            searchButton.Text = LoadAll ? "Options" : "Search";
+            saveButton.Text = LoadAll ? Resources.SaveAll : Resources.Save;
+            loadButton.Text = LoadAll ? Resources.LoadAll : Resources.Load;
+            searchButton.Text = LoadAll ? Resources.Options : Resources.Search;
         }
 
         private void MainForm_Load(object sender, EventArgs e) {

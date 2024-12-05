@@ -7,11 +7,12 @@ using System.Windows.Forms;
 
 using WzVisualizer.GUI;
 using WzVisualizer.GUI.Controls;
+using WzVisualizer.Properties;
 
 namespace WzVisualizer.IO {
     public static class BinaryDataUtil {
-        private const string ExportFolder = "exports";
-        private const string ImagesFolder = "images";
+        private static readonly string ExportFolder = Resources.ExportFolder;
+        private static readonly string ImagesFolder = Resources.ImagesFolder;
 
         private static List<BinData> ParseBinaryFile(string path) {
             using FileStream fs = new FileStream(path, FileMode.Open);
